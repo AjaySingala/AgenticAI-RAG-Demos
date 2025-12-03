@@ -1,0 +1,18 @@
+Title: Security Awareness Overview
+
+The organization expects all employees, vendors, and contractors
+to comply with foundational security practices.
+
+Mandatory Controls for All Users:
+- Use strong passwords with periodic rotation.
+- Enable multi-factor authentication wherever available.
+- Report phishing attempts to the Security Operations Center.
+- Protect confidential data on devices, emails, and collaboration platforms.
+
+Training Requirements:
+Annual security awareness training must be completed by every employee,
+including remote workers and temporary staff.
+
+Non-compliance with these guidelines may result in access restrictions
+or HR-level disciplinary actions.
+

@@ -1,0 +1,17 @@
+Frequently Asked Questions – Security Governance
+
+Q: When is a security review mandatory?
+A: A security review is mandatory for any new application deployment, onboarding a technology vendor, major architectural changes, or whenever sensitive data assets are impacted.
+
+Q: What documents should teams provide?
+A: The minimum artifacts include: architecture diagrams, data flow maps, role-matrix, and security control checklist.
+
+Q: Who owns remediation tasks?
+A: Responsibility sits with the product or platform owner, but timelines are monitored by the Security Compliance function.
+
+Q: How often are controls monitored?
+A: All approved controls are reviewed every quarter, unless otherwise mandated by regulatory bodies.
+
+Q: What if our team cannot meet the remediation deadline?
+A: Exceptions must be escalated to the CISO with business justification.
+

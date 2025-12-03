@@ -1,0 +1,74 @@
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+.conda/
+conda/
+*.sqlite3
+
+# Local settings
+*.DS_Store
+
+# ------------------------
+# Jupyter Notebooks
+# ------------------------
+.ipynb_checkpoints/
+jupyter_notebook_config.py
+.jupyter/
+
+# Notebook output (if you want clean notebooks in git)
+**/.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# If you export HTML/PDF from notebooks
+*.html
+*.pdf
+
+# ------------------------
+# Logs / dumps
+# ------------------------
+*.log
+*.out
+
+# ------------------------
+# Data files
+# ------------------------
+*.tsv
+*.parquet
+*.h5
+*.db
+*.sqlite
+*.zip
+*.gz
+
+# If you keep model artifacts
+models/
+checkpoints/
+*.pt
+*.pth
+
+# ------------------------
+# VSCode / IDE
+# ------------------------
+.vscode/
+.idea/
+*.code-workspace
+
+# ------------------------
+# OS generated
+# ------------------------
+Thumbs.db
+Desktop.ini
