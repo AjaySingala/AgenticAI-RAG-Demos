@@ -1,0 +1,11 @@
+Insurance Policy Terms - Summary
+
+This document outlines the standard insurance policy guidelines.
+
+Key Points:
+- Premium payments are due monthly.
+- Claims must be submitted within 30 days of the incident.
+- SLA penalties apply if claim settlement exceeds 25 working days.
+- Fraudulent claims will result in legal action and blacklisting.
+
+Please contact the Claims Review Team for any clarifications.
